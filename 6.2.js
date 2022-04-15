@@ -36,4 +36,4 @@ const countofDuplicates = string => {
     return count + returnStatment.slice(0,-4);
 }
 
-console.log(countofDuplicates("aabccdD"));
+console.log(countofDuplicates("abcde"));
